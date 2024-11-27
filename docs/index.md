@@ -2,7 +2,7 @@
 layout: home
 # 首页部分元素定制
 blog:
- name: 'Zerg'
+ name: "lesterhnu' blog"
  logo: 'https://avatars.githubusercontent.com/u/42615458?v=4&size=64'
  motto: 
  inspiring:
@@ -15,5 +15,5 @@ blog:
  inspiringTimeout: 3000
  pageSize: 6
  avatarMode: card
- author: lester
+ author: lesterhnu
 ---

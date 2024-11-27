@@ -20,8 +20,11 @@ const blogTheme = getThemeConfig({
   oml2d: {
     mobileDisplay: true,
     models: [
+      // {
+      //   path: 'https://registry.npmmirror.com/oml2d-models/latest/files/models/Senko_Normals/senko.model3.json'
+      // },
       {
-        path: 'https://registry.npmmirror.com/oml2d-models/latest/files/models/Senko_Normals/senko.model3.json'
+        path: "https://model.oml2d.com/HK416-1-normal/model.json"
       }
     ]
   },
@@ -56,7 +59,7 @@ const blogTheme = getThemeConfig({
   themeColor:'vp-default',
 
   // 文章默认作者
-  author: 'lester',
+  author: 'lesterhnu',
 
   // 友链
   friend: [
