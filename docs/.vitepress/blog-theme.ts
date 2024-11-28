@@ -88,11 +88,11 @@ const blogTheme = getThemeConfig({
   popover: {
     title: '公告',
     body: [
-      // { type: 'text', content: '👇公众号👇---👇 微信 👇' },
-      // {
-      //   type: 'image',
-      //   src: 'https://img.cdn.sugarat.top/mdImg/MTYxNTAxODc2NTIxMA==615018765210~fmt.webp'
-      // },
+      { type: 'text', content: '👇公众号👇' },
+      {
+        type: 'image',
+        src: 'https://blog.lesterhnu.top/assets/qrcode_for_gh_bf9340221325_258.jpg'
+      },
       // {
       //   type: 'text',
       //   content: '欢迎大家加群&私信交流'
